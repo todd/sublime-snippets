@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+inject(${1:Object.new}) do |${2:object}, ${3:item}|
+  $0
+end
+]]>
+  </content>
+  <tabTrigger>inject</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

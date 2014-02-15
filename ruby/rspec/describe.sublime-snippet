@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+describe "${1:class_or_method}" do
+  $0
+end
+]]>
+  </content>
+  <tabTrigger>describe</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
